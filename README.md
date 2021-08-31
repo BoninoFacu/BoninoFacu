@@ -11,17 +11,14 @@
   
 <p align="left">
   <a href="https://github.com/BoninoFacu"><img width="400" src="https://github-readme-stats.vercel.app/api?username=boninofacu&show_icons=true&theme=tokyonight">
-  <a href="https://github.com/BoninoFacu"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eichenbergerche&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=tokyonight">
-  <a href="https://github.com/BoninoFacu"><img width="800" src="https://github-profile-trophy.vercel.app/?username=eichenbergerche&row=1&column=5&theme=tokyonight">
+  <a href="https://github.com/BoninoFacu"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boninofacu&shell&langs_count=10&layout=compact&theme=tokyonight">
+  <a href="https://github.com/BoninoFacu"><img width="800" src="https://github-profile-trophy.vercel.app/?username=boninofacu&row=1&column=5&theme=tokyonight">
 </p>
     
 ## My repos
     
-<p align="left">
+<p align="center">
   
-   <a href="https://github.com/BoninoFacu/bot-ivational"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=bot-ivational&langs_count=5&theme=tokyonight">
-  <a href="https://github.com/BoninoFacu/PythonCousera"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&card_height=300&&repo=PythonCousera&langs_count=5&layout=compact&theme=tokyonight">
-  <a href="https://github.com/BoninoFacu/todo-list"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=todo-list&layout=compact&theme=tokyonight">
-  <a href="https://github.com/BoninoFacu/github-readme-stats-tuto"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=eichenbergerche&repo=github-readme-stats-tuto&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
+   <a href="https://github.com/BoninoFacu/ProyectoOsiris"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BoninoFacu&repo=ProyectoOsiris&langs_count=5&theme=tokyonight">
 </p>  
     
