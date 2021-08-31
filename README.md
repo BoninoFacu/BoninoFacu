@@ -15,7 +15,7 @@
   <a href="https://github.com/BoninoFacu"><img width="800" src="https://github-profile-trophy.vercel.app/?username=boninofacu&row=1&column=5&theme=tokyonight">
 </p>
   
-## Languange
+## Languanges
     
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
