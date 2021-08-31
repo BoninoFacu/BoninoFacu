@@ -3,10 +3,10 @@
 
 # ```Hey there!, BoninoFacu.```
 
-* :godmode: I’m interested in **Programming** and **business**
-* :suspect: I’m currently learning English, Web Development, JavaScript, frameworks and other stuff
-* :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
-* :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:boninofacundolas@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/boninofacundo/)**_
+* :zap: I’m interested in **Programming** and **business**
+* :space_invader: I’m currently learning English, Web Development, JavaScript, frameworks and other stuff
+* :microscope: I’m looking to collaborate on any project to help me to gain some experience in the programming world
+* :busts_in_silhouette: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:boninofacundolas@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/boninofacundo/)**_
 
   
 <p align="left">
